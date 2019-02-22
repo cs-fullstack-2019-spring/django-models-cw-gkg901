@@ -9,3 +9,5 @@ Using the admin site, create 3 dogs and save them in your database.
 Add a new Account model to your schema. Give it the fields: username, realName, accountNumber, balance. Username should be a username the user uses to log in, the realName should be a user's real name, accountNumber should be the user's account number, and balance is the user's balance.
 
 Using the admin site, create 3 accounts and save them in your database.
+<hr>
+2 points.
